@@ -1,0 +1,16 @@
+{
+  "name": "dhv-quiz",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DHV QUIZ - He thong thi trac nghiem truc tuyen (Node.js + Express + MySQL)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "mysql2": "^3.11.3"
+  }
+}
