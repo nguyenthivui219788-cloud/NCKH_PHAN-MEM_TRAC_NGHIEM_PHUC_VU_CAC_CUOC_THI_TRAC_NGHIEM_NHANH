@@ -43,17 +43,7 @@ Dự án được xây dựng dựa trên nền tảng Web thuần, không phụ
   - DOM Manipulation để render câu hỏi động.
   - Thuật toán chấm điểm và xử lý sự kiện nộp bài.
 
-## 📂 5. Cấu trúc thư mục dự án
-```text
-NCKH_PHAN-MEM_TRAC_NGHIEM_PHUC_VU_CAC_CUOC_THI_TRAC_NGHIEM_NHANH/
-├── TRAC NGHIEM ONLINE/
-│   ├── index.html        # Trang chủ / Trang làm bài thi
-│   ├── login.html        # Module đăng nhập người dùng
-│   ├── css/              # Chứa các file định dạng phong cách
-│   ├── js/               # Chứa logic xử lý bài thi, đếm giờ, chấm điểm
-│   └── assets/           # Hình ảnh, icon sử dụng trong dự án
-└── README.md             # Tài liệu giới thiệu dự án
-💻 6. Hướng dẫn cài đặt và sử dụng
+💻 5. Hướng dẫn cài đặt và sử dụng
 Dự án được thiết kế để chạy trực tiếp trên môi trường trình duyệt mà không cần cài đặt Web Server phức tạp.
 
 Bước 1: Tải mã nguồn về máy
@@ -69,12 +59,13 @@ Khởi động ứng dụng bằng cách mở file đăng nhập hoặc index.ht
 
 💡 Khuyên dùng: Để có trải nghiệm tốt nhất trong quá trình đọc code và chạy thử, hãy mở thư mục bằng Visual Studio Code và sử dụng Extension Live Server.
 
-🔮 7. Định hướng phát triển tương lai
+🔮 6. Định hướng phát triển tương lai
 Để hoàn thiện và đưa vào triển khai thực tế quy mô lớn, dự án hướng tới các nâng cấp sau:
 
 Tích hợp Backend (Node.js/Java/Python) và Cơ sở dữ liệu (MySQL/Firebase) để lưu trữ vĩnh viễn kết quả thi.
 
 Xây dựng trang Admin Dashboard cho phép Giảng viên tự do Thêm/Sửa/Xóa câu hỏi.
+
 
 Hỗ trợ xuất phổ điểm báo cáo dưới dạng Excel/PDF.
 
