@@ -1,4 +1,4 @@
-# Phần Mềm Kiểm Tra Trắc Nghiệm Nhanh Online (NCKH)
+# Phần Mềm Kiểm Tra Trắc Nghiệm Nhanh (NCKH)
 
 Dự án Nghiên cứu Khoa học (NCKH): Xây dựng phần mềm phục vụ các cuộc thi trắc nghiệm nhanh trực tuyến.
 
